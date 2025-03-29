@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/lancas-cv",
+    "public": "dist/lancas-cv/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
